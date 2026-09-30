@@ -1,0 +1,14 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "auth": {
+    "providers": {
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "Connectly",
+        "supportEmail": "zarghamabbas859@gmail.com"
+      }
+    }
+  }
+}
